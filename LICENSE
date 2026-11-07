@@ -1,0 +1,125 @@
+Yunatype 使用許諾契約書
+Yunatype End User License Agreement
+
+Copyright (c) 2026 yunatype. All rights reserved.
+バージョン 1.0（2026 年 10 月）/ Version 1.0 (October 2026)
+
+本書は、日本語を正本とします。英語は参考訳であり、両者に食い違いがある場合は、日本語が優先します。
+This agreement is written in Japanese, which is the authoritative version. The English text below is a reference translation; if the two differ, the Japanese text prevails.
+
+====================================================================
+【日本語（正本）】
+====================================================================
+
+yunatype（以下「権利者」といいます）は、フォント管理ソフトウェア「Yunatype」を、次の条件で、利用者に提供します。本ソフトウェアをダウンロード、インストール、または使用した時点で、利用者は、本書の内容に同意したものとみなします。同意しない場合は、本ソフトウェアを、インストールおよび使用しないでください。
+
+第 1 条（定義）
+1. 「本ソフトウェア」とは、Yunatype の実行ファイル、インストーラー、同梱する Adobe 向け拡張機能および Figma 向けプラグイン、アイコン、資料など、権利者が配布する一切のものをいいます。
+2. 「利用者」とは、本ソフトウェアをダウンロード、インストール、または使用する個人および法人その他の団体をいいます。
+
+第 2 条（使用の許諾）
+1. 権利者は、利用者に対し、本ソフトウェアを、無償で使用する、非独占的かつ譲渡できない権利を許諾します。
+2. 利用者は、個人・法人その他の団体を問わず、また、業務や商用の制作物のためであっても、本ソフトウェアを使用できます。
+3. 使用する端末の台数に、制限はありません。同一の組織が、その組織の端末に、本ソフトウェアをインストールして使用することもできます。
+
+第 3 条（禁止事項）
+利用者は、次のことをしてはなりません。
+1. 権利者の事前の許可なく、本ソフトウェアを、不特定または多数の者に対して、再配布、転載、販売、貸与し、または他のソフトウェアやサービスに同梱すること。ただし、同一の組織（会社、団体、学校など）の内部で、その構成員に対し、改変せず、無償で、本ソフトウェアを共有することは、許可なく行えます。許可が必要な場合は、第 13 条の連絡先に、連絡してください。
+2. 本ソフトウェアを、改変し、またはリバースエンジニアリング、逆コンパイル、逆アセンブルすること。ただし、法令により、禁止できない場合を除きます。
+3. 本ソフトウェアに表示された、著作権表示およびライセンスの表示を、削除し、または変更すること。
+4. 「Yunatype」の名称およびロゴを、自己の製品またはサービスの名称として使用すること。
+
+第 4 条（権利の帰属と第三者のソフトウェア）
+1. 本ソフトウェアに関する権利は、本書で許諾されたものを除き、権利者または権利者に許諾した者に帰属します。
+2. 本ソフトウェアには、第三者が提供するソフトウェア（オープンソースソフトウェアを含みます）が含まれています。それらには、それぞれのライセンスが適用されます。その著作権表示とライセンスの全文は、本ソフトウェアに同梱する「THIRD_PARTY_LICENSES.txt」に記載しています。
+
+第 5 条（利用者のフォント）
+1. 本ソフトウェアは、利用者が指定したフォントのファイルを、一覧に表示し、一時的に有効化（OS への登録）するものです。フォントの権利は、それぞれの権利者に帰属します。
+2. フォントの使用許諾を、守る責任は、利用者にあります。権利者は、利用者のフォントの使用について、責任を負いません。
+3. 本ソフトウェアは、利用者のフォントのファイルを、外部に送信しません。
+
+第 6 条（プライバシー）
+1. 本ソフトウェアは、利用者の氏名・メールアドレス・手持ちのフォントの名前・ファイルの場所を、収集または送信しません。設定とデータは、利用者の端末の中（%LOCALAPPDATA%\Yunatype）にだけ、保存されます。Adobe 向け拡張機能および Figma 向けプラグインとの通信は、利用者の端末の中だけで行われます。
+2. ただし、更新の確認のため、本ソフトウェアは、起動時に、GitHub に、最新バージョンの問い合わせを行います。この際、利用者の IP アドレスが、GitHub に伝わります。この確認は、環境設定で、無効にできます。
+3. 本ソフトウェアは、機能の改善のため、利用統計（使った機能とエラーの回数、フォント数のおおまかな区分、バージョン、OS、表示言語、国、無作為の端末 ID、Google Fonts の公開名簿にあるファミリー名の利用回数）を、1 日に 1 回、送信することがあります。同意を先に取る地域では、利用者が同意するまで、送信しません。それ以外の地域では、お知らせを表示した翌日から送信します。環境設定で、いつでも無効にでき、サーバー上のデータの削除を求めることもできます。
+
+第 7 条（商標）
+Adobe、Photoshop、Illustrator、InDesign は Adobe Inc.、Figma は Figma, Inc.、Windows は Microsoft Corporation の、商標または登録商標です。本ソフトウェアは、これらの会社とは関係がなく、これらの会社の承認も受けていません。
+
+第 8 条（保証の否認）
+本ソフトウェアは、現状有姿（AS IS）で提供されます。権利者は、本ソフトウェアに、不具合がないこと、特定の目的に適合すること、他のソフトウェアや環境と、問題なく動作することを、保証しません。
+
+第 9 条（責任の制限）
+1. 本ソフトウェアは、無償で提供されます。権利者は、本ソフトウェアの使用または使用できないことによって、利用者に生じた損害（データ、設定、フォントの喪失、他のソフトウェアの不具合、逸失利益を含みます）について、責任を負いません。ただし、権利者の故意または重大な過失による場合を除きます。
+2. 法令により、前項の免責が認められない場合、権利者の責任は、利用者に現実に生じた、通常かつ直接の損害に限られます。
+
+第 10 条（許諾の終了）
+利用者が、本書に違反した場合、本書に基づく許諾は、自動的に終了します。その場合、利用者は、本ソフトウェアの使用を中止し、削除してください。第 4 条から第 9 条、第 11 条から第 13 条は、許諾が終了した後も、効力を有します。
+
+第 11 条（本書の変更）
+権利者は、本書を変更することがあります。変更後の本書は、変更後に配布する本ソフトウェアのバージョンに適用します。最新の本書は、公式の配布元（第 13 条）に掲載します。
+
+第 12 条（準拠法と管轄）
+本書は、日本法に基づき解釈されます。本書に関する紛争については、当方の所在地を管轄する地方裁判所を、第一審の専属的合意管轄裁判所とします。
+
+第 13 条（公式の配布元と連絡先）
+本ソフトウェアの公式の配布元は、次のとおりです。権利者への連絡（再配布の許可の申請、お問い合わせ、不具合の報告）も、こちらの Issues で、受け付けます。
+https://github.com/yunatype/yunatype
+
+====================================================================
+[English - reference translation]
+====================================================================
+
+yunatype ("the Licensor") provides the font management software "Yunatype" to the user under the following terms. By downloading, installing or using the Software, the user agrees to this agreement. If you do not agree, do not install or use the Software.
+
+Article 1 (Definitions)
+1. "The Software" means everything distributed by the Licensor, including the Yunatype executable, the installer, the bundled extension for Adobe applications and plugin for Figma, icons and documents.
+2. "The User" means any individual, company or other organization that downloads, installs or uses the Software.
+
+Article 2 (Grant of License)
+1. The Licensor grants the User a non-exclusive, non-transferable right to use the Software free of charge.
+2. The User may use the Software whether as an individual, a company or another organization, and including for business or commercial work.
+3. There is no limit on the number of devices. An organization may install and use the Software on its own devices.
+
+Article 3 (Prohibited Acts)
+The User must not:
+1. Without the Licensor's prior permission, redistribute, repost, sell, lend the Software to unspecified or many people, or bundle it with other software or services. However, sharing the Software unmodified and free of charge with members inside the same organization (company, group, school, etc.) does not require permission. If permission is needed, contact the address in Article 13.
+2. Modify the Software, or reverse engineer, decompile or disassemble it, except where such a prohibition is not allowed by law.
+3. Remove or alter the copyright and license notices shown in the Software.
+4. Use the name and logo "Yunatype" as the name of the User's own product or service.
+
+Article 4 (Ownership and Third-Party Software)
+1. Rights in the Software belong to the Licensor or its licensors, except for the rights granted in this agreement.
+2. The Software includes software provided by third parties (including open source software), each of which is subject to its own license. Their copyright notices and the full license texts are in "THIRD_PARTY_LICENSES.txt" included with the Software.
+
+Article 5 (The User's Fonts)
+1. The Software lists font files that the User specifies and temporarily activates them (registers them with the OS). Rights in fonts belong to their respective owners.
+2. The User is responsible for complying with the license of each font. The Licensor is not responsible for how the User uses fonts.
+3. The Software does not send the User's font files to any external party.
+
+Article 6 (Privacy)
+1. The Software does not collect or transmit the User's information. Settings and data are stored only on the User's device (%LOCALAPPDATA%\Yunatype). Communication with the extension for Adobe applications and the plugin for Figma takes place only within the User's device.
+2. However, to check for updates, the Software asks GitHub for the latest version at startup. In doing so, the User's IP address is visible to GitHub. This check can be disabled in Preferences.
+
+Article 7 (Trademarks)
+Adobe, Photoshop, Illustrator and InDesign are trademarks or registered trademarks of Adobe Inc.; Figma is a trademark of Figma, Inc.; Windows is a trademark or registered trademark of Microsoft Corporation. The Software is not affiliated with, or endorsed by, these companies.
+
+Article 8 (Disclaimer of Warranty)
+The Software is provided "AS IS". The Licensor does not warrant that the Software is free of defects, fit for a particular purpose, or will work without problems with other software or environments.
+
+Article 9 (Limitation of Liability)
+1. The Software is provided free of charge. The Licensor is not liable for any damage arising from the use of, or inability to use, the Software (including loss of data, settings or fonts, malfunction of other software, and lost profits), except in cases of the Licensor's intent or gross negligence.
+2. Where the above exclusion is not permitted by law, the Licensor's liability is limited to ordinary and direct damage actually incurred by the User.
+
+Article 10 (Termination)
+If the User violates this agreement, the license under this agreement terminates automatically. In that case the User must stop using the Software and delete it. Articles 4 to 9 and 11 to 13 survive termination.
+
+Article 11 (Changes to this Agreement)
+The Licensor may change this agreement. The changed agreement applies to versions of the Software distributed after the change. The latest agreement is published at the official distribution site (Article 13).
+
+Article 12 (Governing Law and Jurisdiction)
+This agreement is governed by the laws of Japan. For any dispute relating to this agreement, the district court having jurisdiction over the Licensor's location shall be the exclusive agreed court of first instance.
+
+Article 13 (Official Distribution Site and Contact)
+The official distribution site of the Software is below. Contact with the Licensor (requests for redistribution permission, inquiries and bug reports) is also accepted through Issues there.
+https://github.com/yunatype/yunatype
